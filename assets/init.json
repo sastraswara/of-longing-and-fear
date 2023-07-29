@@ -1,0 +1,73 @@
+{
+    "storyMin": 2,
+    "vidIndex": 0,
+    "setTime": 0,
+    "xdiv": 5,
+    "ydiv": 3,
+    "bonangPaths": [
+        "assets/samples/bonangBarung/01-BBPL1.wav",
+        "assets/samples/bonangBarung/02-BBPL2.wav",
+        "assets/samples/bonangBarung/03-BBPL3.wav",
+        "assets/samples/bonangBarung/04-BBPL4.wav",
+        "assets/samples/bonangBarung/05-BBPL5.wav",
+        "assets/samples/bonangBarung/06-BBPL6.wav",
+        "assets/samples/bonangBarung/07-BBPL7.wav",
+        "assets/samples/bonangBarung/08-BBPL1h.wav",
+        "assets/samples/bonangBarung/09-BBPL2h.wav",
+        "assets/samples/bonangBarung/10-BBPL3h.wav",
+        "assets/samples/bonangBarung/11-BBPL4h.wav",
+        "assets/samples/bonangBarung/12-BBPL5h.wav",
+        "assets/samples/bonangBarung/13-BBPL6h.wav",
+        "assets/samples/bonangBarung/14-BBPL7h.wav"
+    ],
+    "gambangPaths": [
+        "assets/samples/gambang/00-GPL6ll.wav",
+        "assets/samples/gambang/01-GPL1l.wav",
+        "assets/samples/gambang/02-GPL2l.wav",
+        "assets/samples/gambang/03-GPL3l.wav",
+        "assets/samples/gambang/04-GPL5l.wav",
+        "assets/samples/gambang/05-GPL6l.wav",
+        "assets/samples/gambang/06-GPL1.wav",
+        "assets/samples/gambang/07-GPL2.wav",
+        "assets/samples/gambang/08-GPL3.wav",
+        "assets/samples/gambang/09-GPL5.wav",
+        "assets/samples/gambang/10-GPL6.wav",
+        "assets/samples/gambang/11-GPL1h.wav",
+        "assets/samples/gambang/12-GPL2h.wav",
+        "assets/samples/gambang/13-GPL3h.wav",
+        "assets/samples/gambang/14-GPL5h.wav",
+        "assets/samples/gambang/15-GPL6h.wav",
+        "assets/samples/gambang/16-GPL1hh.wav",
+        "assets/samples/gambang/17-GPL2hh.wav",
+        "assets/samples/gambang/18-GPL3hh.wav",
+        "assets/samples/gambang/19-GPL5hh.wav"
+    ],
+    "chimePaths": [
+        "assets/samples/chime/ESM_Wind_Chime_Single_Hit_5_Ring_Texture_Bell_Bright_Source_SoundDesign_Magic.wav",
+        "assets/samples/chime/ESM_Wind_Chime_Misc_Movement_8_Ring_Texture_Bell_Bright_Source_SoundDesign_Magic.wav"
+    ],
+    "glassPaths": [
+        "assets/samples/glass/ESM_Long_Glass_Particle_Pour_18_Window_Car_Windshield_Organic_Raw_Source_Shatter_Drop.wav",
+        "assets/samples/glass/ESM_Subtle_Ceramic_or_Glass_Drop_3_Organic_Kitchen_Household_Foley_Sound_Design_Post_Production.wav",
+        "assets/samples/glass/SPLC-0917_FX_Oneshot_Glass_Small_Lid.wav",
+        "assets/samples/glass/SPLC-0950_FX_Oneshot_Glass_Debris_Destruction.wav",
+        "assets/samples/glass/Standalone-Music_-_Destiny_Glass_1.wav"
+    ],
+    "bambooPaths": [
+        "assets/samples/bamboo/RARE_JK_bamboo_wind_slow_one_shot.wav",
+        "assets/samples/bamboo/MM_field_recording_wood_bamboo.wav"
+    ],
+    "firePaths": [
+        "assets/samples/fire/FireCrackle_ZA01.256.wav",
+        "assets/samples/fire/FireLightCrackles_HV.262.wav"
+    ],
+    "irPath": "assets/samples/impulse-response/hm2_000_ortf_48k.wav",
+    "imagePaths": [
+        "assets/images/garis.png",
+        "assets/images/kota-arwah.png",
+        "assets/images/mantra.png",
+        "assets/images/melepas-arwah.png",
+        "assets/images/monumen-arwah-2.png",
+        "assets/images/serangan-arwah.png"
+    ]
+}

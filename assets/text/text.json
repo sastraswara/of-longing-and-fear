@@ -1,0 +1,226 @@
+{
+    "history": [
+        {
+            "date": "Some time between 1943-1944",
+            "place": "Mandor",
+            "event": "Execution of civilians of Mandor"
+        },
+        {
+            "date": "Some time between 1943-1946",
+            "place": "Former Dutch East Indies",
+            "event": "Many Dutch-Japanese children were born"
+        },
+        {
+            "date": "28th of April 1945",
+            "place": "Somewhere in the Pacific",
+            "event": "A pilot wrote his last letter before went on a suicide mission"
+        },
+        {
+            "date": "20th of November 1941",
+            "place": "Tokyo",
+            "event": "Announcement of the Basic Plan for Administering Southern Occupied Area"
+        },
+        {
+            "date": "14th of February 1945",
+            "place": "Blitar",
+            "event": "Rebellion of the PETA army"
+        },
+        {
+            "date": "7th of September 1944",
+            "place": "Tokyo",
+            "event": "Prime minister Kusio Kuniaki promised independence for the East Indies"
+        },
+        {
+            "date": "1943",
+            "place": "Surabaya",
+            "event": "Gesang composed the Keroncong song 'Jembatan Merah'"
+        },
+        {
+            "date": "August 1943",
+            "place": "Japanese occupied East Indies",
+            "event": "Keroncong music was forbidden by the government due to its Western character"
+        },
+        {
+            "date": "August 1944",
+            "place": "Jombang",
+            "event": "The Ludruk maestro Cak Durasim passed away in prison"
+        },
+        {
+            "date": "11th of January 1942",
+            "place": "North Sulawesi",
+            "event": "The occupation of North Sulawesi by the Japanese forces"
+        },
+        {
+            "date": "July 1944",
+            "place": "Saipan",
+            "event": "America conquered the island of Saipan"
+        },
+        {
+            "date": "1st of March 1945",
+            "place": "Jakarta",
+            "event": "Establishment of a committee for the investigation of Indonesian independence"
+        },
+        {
+            "date": "2nd of January 1945",
+            "place": "Tsuchiura Naval Air Base",
+            "event": "Kaneko (Ensign) hit the student soldier Irokawa in the face"
+        },
+        {
+            "date": "29th of April 1945",
+            "place": "Somewhere in the Pacific",
+            "event": "Ichijima Yasuo died as a navy ensign"
+        },
+        {
+            "date": "20th of September 1944",
+            "place": "Somewhere in the Pacific",
+            "event": "The pilot Nakao Teketoku composed his poem 'Stillness'"
+        }
+    ],
+    "diaries": [
+        {
+            "entry": "I pray for a world where we don't have to kill enemies we never really hated. I am willing to let my body be torn apart many times to achieve it.",
+            "tag": "longing",
+            "rate": 3
+        },
+        {
+            "entry": "If evil is justified by the argument that it brings goodness--and instead of the expected goodness, it is evil that comes to us--should one accept the consequences of that evil? Evil is evil: it must be recognized as such.",
+            "tag": "longing",
+            "rate": 3
+        },
+        {
+            "entry": "I am so afraid of death. And apparently that's precisely the fate that was prepared for us. Oh mother, how I still want to be spoiled by you. I just want to be back in your arms and fall asleep on your lap.",
+            "tag": "fear",
+            "rate": 3
+        },
+        {
+            "entry": "That night was the last night of their lives. They thought of their parents, their lover's face and their smile. They were supposed to be ready to sacrifice their youth for the empire, but in reality they were torn beyond words. They all departed wearing headbands with the sunrise motif the next day. I will never forget that scene.",
+            "tag": "fear",
+            "rate": 3
+        },
+        {
+            "entry": "Illusion in the comrades' letter. So many beautiful illusions: all creatures are born of illusion, and will die in illusion. I fell asleep drunk on a beautiful red wine: the illusion of peace--no, we can't laugh.",
+            "tag": "fear",
+            "rate": 2
+        },
+        {
+            "entry": "And so they teach: 'duty is heavier than a mountain, but death is lighter than a feather.'",
+            "tag": "fear",
+            "rate": 1
+        },
+        {
+            "entry": "I, too, sought the 'infinite', fell in love with the 'absolute'. But I had to sacrifice myself for the nation. Can the 'absolute' be found in sacrificing oneself for the nation? I can only suffer from this contradiction. And in that suffering, I will strive to find the 'truth'.",
+            "tag": "longing",
+            "rate": 3
+        },
+        {
+            "entry": "The issue of immortality is important. At this point, I had recognized the pain of life. For me, death and immortality only have meaning when confronted with life. Socrates' last writing glorifies the beauty of the afterlife. Reading such a thing, I wanted to live even more instead of dying.",
+            "tag": "fear",
+            "rate": 2
+        },
+        {
+            "entry": "The gravestone of my friend who died in the south: how painful when I remember the age of his death: twenty-one. I pulled out some autumn grass to purify my friend's grave.",
+            "tag": "longing",
+            "rate": 2
+        },
+        {
+            "entry": "Even when I die, no one will mourn me. I don't think anyone will visit my grave. I'd rather be buried along the road. Because there, maybe someone will offer flowers to my grave. I don't care what flowers they will offer. I'd rather have flowers that can grow wild along the road. Flowers that don't need watering because they can live off the rain.",
+            "tag": "fear",
+            "rate": 2
+        },
+        {
+            "entry": "It was still raining outside. How cold it is to sleep alone at night. Ah, what a pity---a mosquito still alive, yet flying alone.",
+            "tag": "fear",
+            "rate": 1
+        },
+        {
+            "entry": "How lonely the clock sounds in the darkness of the night. The sound of the clock brought back fond memories of my childhood. It was hard to sleep because of my solitude, many thoughts came like the rain falling outside.",
+            "tag": "fear",
+            "rate": 1
+        },
+        {
+            "entry": "Praying for the meaning of life, I spent long, painful sleepless nights.",
+            "tag": "longing",
+            "rate": 1
+        },
+        {
+            "entry": "The moon is so beautiful tonight: the sound of the rain falling, the sound of the insects in the overgrown bushes. Every time I look at it, the moon looks more like a lover lamenting silently.",
+            "tag": "longing",
+            "rate": 2
+        },
+        {
+            "entry": "The soldiers came one day. The neighbors said: they have landed. We stayed at home listening to the radio, hoping that there would be instruction. There was none.",
+            "tag": "fear",
+            "rate": 2
+        },
+        {
+            "entry": "We listened to the gunshots. We ran into the rice fields and beyond. In a distance hut all refugees gathered.",
+            "tag": "fear",
+            "rate": 3
+        },
+        {
+            "entry": "People said that the soldiers were destroying things. They were told to do so, when the battle was lost. We watched how the city hall was set to fire.",
+            "tag": "fear",
+            "rate": 2
+        },
+        {
+            "entry": "It was a force consisting of 2500 men. They took over the beach and two fortifications. It was early morning, before dawn.",
+            "tag": "fear",
+            "rate": 1
+        },
+        {
+            "entry": "People said that they were the liberator. The colonial power had ceased to exist. In our case, however, we just waited. Martial order had been instilled.",
+            "tag": "fear",
+            "rate": 1
+        },
+        {
+            "entry": "In the old time there was a saying: north for man, south for materials. Hence so they were ordered: to maintain public order and peace, to procure oil and major resources, to ensure self-sufficiency for the local forces.",
+            "tag": "fear",
+            "rate": 1
+        },
+        {
+            "entry": "We were asked about our identity, when it was not clear from our appearances. For some, it was clear that they had to go to the internment camp straight away. Those who were of mixed descent, they had to choose: to live outside the camp without any colonial power, or to go inside the camp to suffer among the like-minded.",
+            "tag": "fear",
+            "rate": 2
+        },
+        {
+            "entry": "There were times when I heard children songs hovering over the internment camps whenever the sun set.",
+            "tag": "longing",
+            "rate": 1
+        },
+        {
+            "entry": "The youngsters started to have military training. When they made mistake, they got beaten. They became patriotic: patriotism as interpreted by themselves.",
+            "tag": "fear",
+            "rate": 2
+        },
+        {
+            "entry": "At school we had to study history, military arts, strategy, tactics, weapon technology. The teachers wanted us to acquire physical and spiritual strength.",
+            "tag": "longing",
+            "rate": 1
+        },
+        {
+            "entry": "Those youngsters were taught, that the most important quality of a soldier is the soldiery spirit; that victory or defeat did not depend on the size of one's military forces. A soldier requires a burning spirit of struggle and must complete his training.",
+            "tag": "longing",
+            "rate": 1
+        },
+        {
+            "entry": "There was a crowd near the train station this afternoon. A woman was crying. When asked, she replied that the fifteen liters of rice she had just bought had been taken away by a police agent. The woman cried until her tears dried up, perhaps as dry as her purse of money.",
+            "tag": "longing",
+            "rate": 3
+        },
+        {
+            "entry": "In the dormitory, I saw how he was heartbroken. That night he came home heartbroken, and was killed on a battlefield far from home shortly afterward. His ex-wife, I heard, was four months pregnant---a child from a second marriage.",
+            "tag": "longing",
+            "rate": 2
+        },
+        {
+            "entry": "'Can a woman love two men?' Every time I remembered her words, I became more and more indifferent to myself. I never read the newspapers anymore. I ignored all the writings about the call to sacrifice ourselves for the motherland. My current sacrifice is greater than those who died for the motherland.",
+            "tag": "longing",
+            "rate": 3
+        },
+        {
+            "entry": "They have taken everything from me: my pride, freedom, possessions, and family. But there is one thing they can never take away: my faith and love for God.",
+            "tag": "fear",
+            "rate": 2
+        }
+    ]
+}
