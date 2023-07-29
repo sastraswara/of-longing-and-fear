@@ -4,7 +4,7 @@
 
 ## About
 
-Of Longing and Fear is a browser based video and sound installation, developed as the result of the workshop Javascript for Sound Artist of the Browser Sound Festival 2023 (Stuttgart and online, 21-22 July 2023). The piece is based on my artistic research project in 2021, T_AKUT, funded by the Musikfonds. In this proof-of-concept work, a collection of permutated location, dates, and text are presented to the visitor, along with a collage of video and sound.
+Of Longing and Fear is a browser based video and sound installation, developed as the result of the workshop Javascript for Sound Artist of the Browser Sound Festival 2023 (Stuttgart and online, 21-22 July 2023). The piece is based on my artistic research project in 2021, [T_AKUT](https://sastraswara.site/works/takut.html), funded by the Musikfonds. In this proof-of-concept work, a collection of permutated location, dates, and text are presented to the visitor, along with a collage of video and sound.
 
 The work follows "diaries" of historical witness living during the time of Japanese occupation in Indonesia between 1942-1945. Through permutations, historical facts, geospatical locations, and figures becomes blurry: the historical witness becomes an anonymous figure, and the stories are unified only by the figures' expression of longing and fear during that period. One can only guess, whether the "diary entry" belongs to an Indonesian modernist or a Japanese pilot.
 
