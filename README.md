@@ -1,6 +1,6 @@
 # Of Longing and Fear
 
-[Of Fear and Longing - Browser Installation](https://sastraswara.site/of-fear-and-longing)
+[Of Longing and Fear - Browser Installation](https://sastraswara.site/of-fear-and-longing)
 
 ## About
 
@@ -12,9 +12,9 @@ Through this work, I would like to explore and imagine a humane shared experienc
 
 ## Direction and Implementation
 
-It is recommended to use a laptop or PC to explore the work with a pair of good speaker or headphone. Although my preference is to enjoy this in solitary, it is always a grateful ocassion to experience it in the good company of other. The experience in a smartphone might not be optimum yet. I plan to improve it in due time.
+It is recommended to use a laptop or PC to explore the work with a pair of good speaker or headphone. Although my preference is to enjoy this in solitary, it is always a grateful ocassion to experience it in the good company of other. 
 
-The multimedia presentation is made with p5.js., while the processing of recorded sounds, creation of collages, and sound composition are realized in Supercollider.
+The multimedia presentation is made with p5.js., while the processing of recorded sounds, creation of collages, and sound composition are realized in Supercollider. It is tested and works on Firefox, but it seems to fail in Chrome. The experience in a smartphone might not be optimum yet. I plan to improve and address these issues in due time.
 
 ## External Sources
 
