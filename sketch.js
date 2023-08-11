@@ -38,6 +38,7 @@ function setup() {
   // Canvas setup
   createCanvas(windowWidth, windowHeight);
   ellipseMode(CORNER);
+  pixelDensity(1);
   //noCursor();
 
   // Load corpus and build scenes
