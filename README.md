@@ -1,6 +1,6 @@
 # Of Longing and Fear
 
-[Of Longing and Fear - Browser Installation](https://sastraswara.site/of-fear-and-longing)
+[Of Longing and Fear - Browser Installation](https://sastraswara.site/of-longing-and-fear)
 
 ## About
 
